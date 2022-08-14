@@ -2,7 +2,7 @@
 Zekai Xu, Imperial College
 
 ### Keyword
-Crossmodal Transder Learning, Reinforcement Learning, Latent Representation (tbc)
+Crossmodal Transfer Learning, RL-based Object Recognition, Latent Representation (tbc)
 
 ### Introduction
 
