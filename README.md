@@ -1,19 +1,10 @@
-### Crossmodal Recognition Project
+# Crossmodal Recognition Project
 Zekai Xu, Imperial College
 
 ### Keyword
 Crossmodal Transfer Learning, RL-based Object Recognition, Latent Representation (tbc)
 
 ### Updates and Current Work to do (14/08/2022)
-
-1. Modify the multiple object, introduce the shapes(cubes, spheres)
-
-2. Modify the sensor input:
-
-a. Visual: modify Lidar-senor to introduce motion parallax concept
-
-b. Tactile: Implement whiskers-like tactiles sensor for exploring in the dark: three fixed sensor places in-front, left and right with imaginary physical properties like spring. The three whisker-like sensor record infomation including length to the contact point, tangent of the contact plane and relative distance from the mass-centre to the contact point.
-
 
 
 ### Reference
