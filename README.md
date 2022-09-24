@@ -1,38 +1,12 @@
 # Crossmodal Recognition Project
 Zekai Xu, Imperial College
 
-### Keyword
-Crossmodal Transfer Learning, RL-based Object Recognition, Latent Representation (tbc)
-
-### Updates and Current Work to do (14/08/2022)
-
-
-### Reference
-
-1. Benchmarking Safe Exploration in Deep Reinforcement Learning
-
-```
-@article{Ray2019,
-    author = {Ray, Alex and Achiam, Joshua and Amodei, Dario},
-    title = {{Benchmarking Safe Exploration in Deep Reinforcement Learning}},
-    year = {2019}
-}
-```
-
-2. Playing Games in the Dark: An Approach for Cross-Modality Transfer in Reinforcement Learning 
-
-```
-@inproceedings{silva2020playing,
-  title={Playing Games in the Dark: An Approach for Cross-Modality Transfer in Reinforcement Learning},
-  author={Silva, Rui and Vasco, Miguel and Melo, Francisco S and Paiva, Ana and Veloso, Manuela},
-  booktitle={Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems},
-  pages={1260--1268},
-  year={2020}
-}
-```
 
 
 # Reading List for Topics in Multimodal Machine Learning
+
+Check from: https://github.com/pliang279/awesome-multimodal-ml
+
 
 By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from members of the [MultiComp Lab](http://multicomp.cs.cmu.edu/) at LTI, CMU. If there are any areas, papers, and datasets I missed, please let me know!
 
